@@ -1,2 +1,2 @@
 # pcjl.github.io
-My personal website showcasing my projects and portfolio.
+My personal website with links to my socials and resume.
